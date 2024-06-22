@@ -3,7 +3,6 @@
 
 <p align="center">🌱 I’m currently learning <b>React.js</b>  to enhance my frontend skills.</p>
 
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-hetha-n&show_icons=true&locale=en&bg_color=00000000&text_color=808080&icon_color=4b8bbe" alt="c-hetha-n" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
