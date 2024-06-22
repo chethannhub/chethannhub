@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chethan N</h1>
 <h3 align="center">Transforming Ideas💡 into Reality through Coding👨‍💻 and Problem-Solving</h3>
 
-- 🌱 I’m currently learning **React.js**  to enhance my frontend skills.
+<p align="center">🌱 I’m currently learning <b>React.js</b>  to enhance my frontend skills.</p>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-hetha-n&show_icons=true&locale=en&bg_color=00000000&text_color=808080&icon_color=4b8bbe" alt="c-hetha-n" /></p>
 
@@ -26,6 +27,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-hetha-n&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=808080&icon_color=4b8bbe" alt="c-hetha-n" /></p>
