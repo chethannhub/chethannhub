@@ -3,7 +3,7 @@
     Transforming Ideas💡 into Reality through Coding👨‍💻 and Problem-Solving
 </h3>
 <p align="center">
-    🌱 I’m currently learning <b>React.js</b> to enhance my frontend skills.
+    🌱 I’m currently exploring <b>AR and Game development using Unity</b> to expand my creative and technical expertise in interactive experiences.
 </p>
 
 <br />
